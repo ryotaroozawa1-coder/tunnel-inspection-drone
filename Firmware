@@ -1,0 +1,9 @@
+# Firmware
+
+Arduino code for controlling the impactor and reading sensors.
+
+Planned contents:
+- Main control loop
+- Sensor reading routines
+- Data logging to SD card
+- Serial communication with laptop
