@@ -1,0 +1,9 @@
+# Analysis
+
+Python scripts for processing measurement data.
+
+Planned contents:
+- Signal preprocessing (FFT, filtering)
+- α_f extraction from strike-response data
+- ν recovery curve fitting
+- Visualization scripts
