@@ -43,3 +43,38 @@ The underlying physics is established in prior work (Jin & Shokouhi 2017, Van De
 - Drone integration planned with International Drone Association mentorship (August internship confirmed)
 
 ## Repository Structure
+tunnel-inspection-drone/
+├── docs/ # Research documentation
+├── hardware/ # Circuit diagrams, mechanical design
+├── firmware/ # Arduino code
+├── analysis/ # Python analysis scripts
+├── data/ # Measurement data (as collected)
+└── media/ # Photos, videos of build
+
+## Timeline
+
+| Date | Milestone |
+|------|-----------|
+| May 2026 | Project conceived |
+| June 2026 | Piezo → INRAS pivot (Sugimoto-sensei) |
+| July 2026 | Enomoto Sr. consultation, drone approach refined |
+| August 2026 | Damage scenario reframe (Matsuzaki-sensei), Isago-sensei consultation |
+
+## Acknowledgments
+
+- **Enomoto Kotaro** (International Drone Association) — Drone deployment mentorship
+- **Prof. Sugimoto Tsuneyoshi** (Toin University Yokohama) — Nonlinear acoustics guidance  
+- **Prof. Matsuzaki Hiroshi** (Tokyo Institute of Science) — Damage mechanism critique
+- **Prof. Isago Nobuharu** (Tokyo Metropolitan University) — Tunnel engineering consultation
+
+## References
+
+Selected key references:
+- Van Den Abeele et al. (2000). "Nonlinear Elastic Wave Spectroscopy Techniques."
+- Jin, Y. & Shokouhi, P. (2017). "Impact-based nonlinear resonant acoustic spectroscopy for concrete damage assessment."
+- Asakura, T. et al. (1991). "Deterioration of tunnel lining concrete."
+- Asakura, T. & Kojima, Y. (2003). "Tunnel maintenance in Japan."
+
+---
+
+*This is a working research repository. Content and structure will evolve as the project progresses.*
