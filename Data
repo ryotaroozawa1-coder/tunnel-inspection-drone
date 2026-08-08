@@ -1,0 +1,8 @@
+# Data
+
+Measurement data collected during experiments.
+
+To be populated as experiments run. Data will be organized by:
+- Sample identifier
+- Measurement date
+- Experimental condition
